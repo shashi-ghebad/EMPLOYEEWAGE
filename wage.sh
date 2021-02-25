@@ -18,4 +18,5 @@ esac
 
 wage_per_hr=20
 wage_per_day=$(( wage_per_hr * no_of_hrs_per_day ))
-echo "The daily wage of the employee is $wage_per_day 
+echo "The daily wage of the employee is $wage_per_day" 
+echo "The Wage of the employee for the month is $wage_per_month"
